@@ -2,7 +2,7 @@ Nmae: Simika Bhakta
 Companu: CODETECH IT SOLUTIONS
 ID:CTO8DS6946
 Domain: Java
-Duration: 
+Duration: August to September 
 
 Overview of the project
 Define Objectives: Determine the purpose of the calculator. For a basic project, objectives may include performing arithmetic operations like addition, subtraction, multiplication, and division.
